@@ -1,7 +1,7 @@
-知乎日报-WebApp  zhihu
-  技术栈：create-react-app、React18、redux/react-redux「你可以使用mobx或者reduxjs/toolkit」、react-router-dom V6、Fetch、less、AntdMobile...
+WebApp  zhihu
+  技术栈：create-react-app、React18、redux/react-redux、react-router-dom V6、Fetch、less、AntdMobile...
 
-从零开始构建React项目「本项目不采用任何系解决方案（例如：淘系），就是基于最纯正的React实现开发」
+从零开始构建React项目「基于React实现开发」
   1. 基于create-react-app创建工程化项目
     $ npm i create-react-app -g
     $ create-react-app 项目名
